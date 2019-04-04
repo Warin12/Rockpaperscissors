@@ -1,0 +1,9 @@
+/Users/evanw8/apps/RockPaperScissors/bin/Debug/netstandard2.0/RockPaperScissors.deps.json
+/Users/evanw8/apps/RockPaperScissors/bin/Debug/netstandard2.0/RockPaperScissors.dll
+/Users/evanw8/apps/RockPaperScissors/bin/Debug/netstandard2.0/RockPaperScissors.pdb
+/Users/evanw8/apps/RockPaperScissors/obj/Debug/netstandard2.0/RockPaperScissors.csprojAssemblyReference.cache
+/Users/evanw8/apps/RockPaperScissors/obj/Debug/netstandard2.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/evanw8/apps/RockPaperScissors/obj/Debug/netstandard2.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/evanw8/apps/RockPaperScissors/obj/Debug/netstandard2.0/RockPaperScissors.AssemblyInfo.cs
+/Users/evanw8/apps/RockPaperScissors/obj/Debug/netstandard2.0/RockPaperScissors.dll
+/Users/evanw8/apps/RockPaperScissors/obj/Debug/netstandard2.0/RockPaperScissors.pdb
