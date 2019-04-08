@@ -1,0 +1,14 @@
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/obj/Debug/netcoreapp2.1/RockPaperScissorsChallenge.csprojAssemblyReference.cache
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/obj/Debug/netcoreapp2.1/RockPaperScissorsChallenge.csproj.CoreCompileInputs.cache
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/obj/Debug/netcoreapp2.1/RockPaperScissorsChallenge.AssemblyInfoInputs.cache
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/obj/Debug/netcoreapp2.1/RockPaperScissorsChallenge.AssemblyInfo.cs
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/bin/Debug/netcoreapp2.1/RockPaperScissorsChallenge.deps.json
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/bin/Debug/netcoreapp2.1/RockPaperScissorsChallenge.runtimeconfig.json
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/bin/Debug/netcoreapp2.1/RockPaperScissorsChallenge.runtimeconfig.dev.json
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/bin/Debug/netcoreapp2.1/RockPaperScissorsChallenge.dll
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/bin/Debug/netcoreapp2.1/RockPaperScissorsChallenge.pdb
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/bin/Debug/netcoreapp2.1/RockPaperScissors.dll
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/bin/Debug/netcoreapp2.1/RockPaperScissors.pdb
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/obj/Debug/netcoreapp2.1/RockPaperScissorsChallenge.csproj.CopyComplete
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/obj/Debug/netcoreapp2.1/RockPaperScissorsChallenge.dll
+/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/obj/Debug/netcoreapp2.1/RockPaperScissorsChallenge.pdb

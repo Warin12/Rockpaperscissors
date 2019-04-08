@@ -6,7 +6,8 @@ namespace RockPaperScissorsChallenge
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        RockPaperScissors.RockPaperScissorsGame game = new RockPaperScissors.RockPaperScissorsGame();
+        game.Play();
         }
     }
 }

@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RockPaperScissors\RockPaperScissors.csproj" />
-    <ProjectReference Include="RockPaperScissorsChallenge.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
