@@ -2,5 +2,13 @@
   "ProjectFilePath": "/Users/evanw8/apps/RPS/RockPaperScissorsChallenge/RockPaperScissorsChallenge.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": null
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
 }
